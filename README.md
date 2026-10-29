@@ -108,3 +108,5 @@ model = joblib.load("models/car_price_model.joblib")
 ```
 
 Model je spreman za predviđanje cena na novim podacima koji imaju odgovarajuće ulazne karakteristike.
+
+**Napomena:** Trenirani modeli nisu uključeni u GitHub repozitorijum zbog ograničenja veličine fajlova. Modeli se čuvaju lokalno u folderu `models/`. Python kod za njihovo treniranje i evaluaciju nalazi se u folderu `src/`.
